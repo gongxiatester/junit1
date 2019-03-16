@@ -16,6 +16,7 @@ public class testbaidu1 {
 	@Before
 	public void setUp() throws Exception {
 //打开浏览器
+//打开浏览器
 		 System.setProperty("webdriver.chrome.driver", ".\\Tools\\chromedriver.exe");
 		   driver =new ChromeDriver();
 	}
